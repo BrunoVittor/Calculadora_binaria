@@ -1,3 +1,5 @@
+# hdhdhd
+
 
 # Calculadora criada para realizar operações aritiméticas em Binário.
 def calcular():
